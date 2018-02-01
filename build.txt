@@ -1,0 +1,2 @@
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, Assemblies\*, Properties\*, Resource\*
+includePDB = true
